@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">
+        Yoga 9i (14 ") dirancang untuk menjadikan pengalaman terbaik Anda sebagai prioritas. Yoga 9i (14") dikemas dengan fitur-fitur inovatif dalam rangka logam 2-in-1 yang ramping dengan pilihan cover kulit berwarna Shadow Black. Intel®Evo™ platform terbaru membawa prosesor Intel Core®®Generasi ke-11 yang memungkinkan Anda menjelajahi kreativitas dan produktivitas Anda. Dan dengan layar 14" hingga UHD yang dioptimalkan dengan Dolby Vision, Anda akan menikmati visual yang sangat imersif dikombinasikan dengan rotating sound bar yang inovatif untuk audio tiga dimensi.
+    </string>
+    <string name="content_specs_display">11th Gen Intel® Core™ i7-1185G7 processor®Core™ i7 / Up to 14" UHD (3840 x 2160) WVA, VESA HDR400 + Dolby Vision™, 500 nits, 90% DCI-P3 / 16GB LPDDR (dual Channel) / 	1TB SSD PCIe
+    </string>
+    <string name="content_specs_size">8,30" x 12,53" x ,57" - 0,62" /1,35kg</string>
+    <string name="content_specs_battery">Local video playback: Up to 18 hours / MobileMark®2014: Up to 17 hours</string>
+    <string name="stock">Stock hanya 11 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Vania Jessica Azalia</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp 21.999.999,00</string>
+    <string name="dummy_photos">4 photos</string>
+    <string name="kembali">Kembali</string>
+    <string name="barang_berhasil_dibeli">Barang berhasil dibeli!</string>
+    <string name="hubungi_customer">Hubungi Customer</string>
+</resources>
